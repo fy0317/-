@@ -1,0 +1,4 @@
+﻿  main.c
+D:\学习\C学习\鹏哥\Project1\Project1\main.c(28,24): warning C4090: “return”: 不同的“const”限定符
+D:\学习\C学习\鹏哥\Project1\Project1\main.c(78,43): warning C4090: “return”: 不同的“const”限定符
+  Project1.vcxproj -> D:\学习\C学习\鹏哥\Project1\Debug\Project1.exe
